@@ -1,11 +1,12 @@
 body {
-    color: blue;
+    color: red;
     text-align: left;
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0%;
 }
+
 
 #cabecera
 {
@@ -17,7 +18,7 @@ body {
     
 }
 
- #cabecera #tagline
+#cabecera #tagline
 {
     padding: 0 0 0 1em;
     font-weight: normal;
